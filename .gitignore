@@ -1,0 +1,12 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+## 父项目
+.idea
+.iml
+.gitignore
+
+## 子项目
+*/*.iml
+*/src/test
+
+
